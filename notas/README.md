@@ -124,3 +124,9 @@ git rm [file] #borra el archivo
 git mv [archivo-original] [archivo-renombrado] #cambiar nombre de archivo
 
 ```
+
+# Ramas
+
+```bash
+
+```
