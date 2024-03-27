@@ -20,5 +20,8 @@ ls -a
 
 clear
 
+rm [file]
+
+
 
 ```
