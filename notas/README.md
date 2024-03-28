@@ -129,6 +129,21 @@ git mv [archivo-original] [archivo-renombrado] #cambiar nombre de archivo
 
 ```bash
 
+git branch [nombre] #crear una rama
 
+git branch  # ver las ramas creadas
 
+git checkout [rama] #cambiamos a esa ramaa
+
+git branch -d [rama] # eliminar una rama
+
+git switch [rama]  # cambiarnos entre ramas (recomendada)
+
+git checkout -b [rama-nueva] # crear una rama y cambiarnos de una a ella
+
+git switch -c [rama-nueva] # crear una rama y cambiarnos de una a ella
+
+git branch -m [rama] [nuevo-nombre-rama]
+
+git branch -m [nuevo-nombre-rama]
 ```
