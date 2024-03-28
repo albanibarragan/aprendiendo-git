@@ -146,4 +146,7 @@ git switch -c [rama-nueva] # crear una rama y cambiarnos de una a ella
 git branch -m [rama] [nuevo-nombre-rama]
 
 git branch -m [nuevo-nombre-rama]
+
+git merge [rama] #fusionar
+
 ```
