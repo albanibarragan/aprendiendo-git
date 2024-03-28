@@ -1,1 +1,3 @@
-amo a mi gato 
+Recuerda praticar la parte de modificar y deshacer commits
+
+Hola esto fue desarrollado por albani 
