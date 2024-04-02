@@ -1,4 +1,0 @@
-#archivos que ignorar 
-#*.txt cualquier archivo que sea txt lo ignore
-*.txt 
-!readme.txt
