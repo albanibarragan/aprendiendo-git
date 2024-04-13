@@ -1,3 +1,3 @@
-nombre = "tonoto"
+nombre = "amarillo"
 
 print("Hola " + nombre);
