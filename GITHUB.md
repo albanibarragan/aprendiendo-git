@@ -18,10 +18,20 @@ git push origin  [rama]
 
 ### Git pull &  Git Fetch
 
-pull: bajar los cambios que estan en el servidor
+pull: bajar los cambios que estan en el servidor y luego merge
+
+git fecth: 
+
+
 
 ```bash 
 
-git
+git fetch
+
+#luego moverte a la rama del cambio
+
+git switch --detach origin master
+
+
 
 ```
