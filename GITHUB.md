@@ -22,7 +22,7 @@ pull: bajar los cambios que estan en el servidor y luego merge
 
 git fecth: 
 
-
+> mejorar esto
 
 ```bash 
 
@@ -35,3 +35,5 @@ git switch --detach origin master
 
 
 ```
+
+## Forks
